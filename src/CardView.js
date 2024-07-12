@@ -26,15 +26,15 @@ const s = StyleSheet.create({
     resizeMode: "contain",
   },
   baseText: {
-    color: "rgba(255, 255, 255, 0.8)",
+    color: "#202020",
     backgroundColor: "transparent",
   },
   placeholder: {
-    color: "rgba(255, 255, 255, 0.5)",
+    color: "#202020",
   },
   focused: {
     fontWeight: "bold",
-    color: "rgba(255, 255, 255, 1)",
+    color: "#202020",
   },
   number: {
     fontSize: 21,
